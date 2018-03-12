@@ -1,4 +1,4 @@
-# Langton's-Ant
+# Langton's Ant
 A simulation of Langton's Ant using SFML in C++.
 
 Langton's Ant is a two-dimensional universal Turing machine invented by Chris Langton in 1986. Langton's Ant is part of a broader classification of Turing machines known as turmites. Turmites are simply Turing machines which have an orientation, a state, and a tape which consists of cells on a two-dimensional grid.
