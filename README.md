@@ -5,8 +5,8 @@ Langton's Ant is a two-dimensional universal Turing machine invented by Chris La
 
 Langton's Ant is defined by these rules:
 
-  1. If the ant is on a white square: flip the color of the square, turn right, and move forward one cell
-  2. If the ant is on a black square: flip the color of the square, turn left, and move forward one cell
+	1. If the ant is on a white square: flip the color of the square, turn right, and move forward one cell
+	2. If the ant is on a black square: flip the color of the square, turn left, and move forward one cell
   
 Although the rules are few and also simple, they produce very interesting patterns.
 
@@ -14,8 +14,8 @@ This simulation of Langton's Ant runs on an 800x800 pixel grid which treats each
 
 The controls for the program are as follows:
 
-  h - turns on the heat map view (and resumes visual rendering)
+	h - turns on the heat map view (and resumes visual rendering)
   
-  n - turns on the normal black and white view (and resumes visual rendering)
+	n - turns on the normal black and white view (and resumes visual rendering)
   
-  o - turns off visual rendering to increase the speed of the simulation
+	o - turns off visual rendering to increase the speed of the simulation
