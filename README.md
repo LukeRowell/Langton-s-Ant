@@ -19,3 +19,7 @@ The controls for the program are as follows:
 	n - turns on the normal black and white view (and resumes visual rendering)
   
 	o - turns off visual rendering to increase the speed of the simulation
+
+Here's a YouTube video which demonstrates the simulation:
+
+	https://www.youtube.com/watch?v=9t5jK17UA38
