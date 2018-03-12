@@ -136,7 +136,7 @@ int main()
 					heatmapGrid.setPixel(antX, antY, sf::Color((red.r - yellow.r) * heatmapValue + yellow.r, (red.g - yellow.g) * heatmapValue + yellow.g, (red.b - yellow.b) * heatmapValue + yellow.b, 255));
 				}
 
-				else if(heatmapValue > 0.8 && heatmapValue <= 0.4)		//Red
+				else if(heatmapValue > 0.8)		//Red
 				{
 					heatmapGrid.setPixel(antX, antY, red);
 				}
