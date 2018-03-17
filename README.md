@@ -14,10 +14,6 @@ This simulation of Langton's Ant runs on an 800x800 pixel grid which treats each
 
 The controls for the program are as follows:
 
-	h - turns on the heat map view (and resumes visual rendering)
-  
-	n - turns on the normal black and white view (and resumes visual rendering)
-  
-	o - turns off visual rendering to increase the speed of the simulation
-
-Here's a YouTube video which demonstrates the simulation: (https://www.youtube.com/watch?v=9t5jK17UA38)
+	h 	-    toggles the heat map view on/off
+	
+	space 	-    toggles the use of the thread on/off (speed increase)
