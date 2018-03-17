@@ -17,3 +17,5 @@ The controls for the program are as follows:
 	h 	-    toggles the heat map view on/off
 	
 	space 	-    toggles the use of the thread on/off (speed increase)
+
+Here's a YouTube video showing the simulation in action: (https://www.youtube.com/watch?v=ETC-lEYDkZA)
