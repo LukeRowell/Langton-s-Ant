@@ -1,11 +1,3 @@
-/***************************************************************
-AUTHOR: Luke Rowell
-LAST MODIFIED: 3/17/2018
-DESCRIPTION: Simulation of Langton's Ant.
-
-CONTROLS:		h		-	toggles heat map view
-				space	-	toggles simulation slowdown
-***************************************************************/
 #include <SFML/Graphics.hpp>
 #include <windows.h>
 #include <chrono>
